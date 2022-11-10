@@ -15,7 +15,7 @@ We are cleaning code and will release it soon.
 We also verify the effacacy of CoRF on monocular human body RGB videos. In the figure below we show 9 synthetic human bodies from multiple views. 
 In each row, we use different motion representations to control the standing gesture. 
 
-![**Figure: Results on human body generation with motion control **](figs/humanbody.jpg)
+![**Figure: Results on human body generation with motion control **](figs/humanbody2.jpg)
 
 
 ## Citation
