@@ -9,9 +9,13 @@ layered latent motion space of a style-based generator; 2) To ensure consistency
 
 ## Get Started 
 
-We are cleaning code and will release it soon
+We are cleaning code and will release it soon.
 
-## Additional results on human body
+## Additional results on monocular human body RGB videos
+We also verify the effacacy of CoRF on monocular human body RGB videos. In the figure below we show 9 synthetic human bodies from multiple views. 
+In each row, we use different motion representations to control the standing gesture. 
+
+![**Figure: Results on human body generation with motion control **](figs/humanbody.jpg)
 
 
 ## Citation
